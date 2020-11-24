@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html leng="esp">
+
+<head>
+    <meta charset="utf-8">
+    <title>HTML</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+    <h1> lenguajes de marcas y Sistemas de gestion de información </h1>
+
+    <h2>Definiciones:</h2>
+
+
+        <h3> Lenguaje de marcas:</h3>
+        <p> 
+        Es una forma de codificar un documento que, junto con el texto, incorpora etiquetas o marcas 
+        que contienen información adicional acerca de la estructura del texto o su presentación. El 
+        lenguaje de marcas más extendido es el HTML.
+        </p>
+
+        <h3> Sistemas de gestion de información: </h3>
+        <p>
+        Es un conjunto de sistemas y procedimientos que recopilan información de una variedad de fuentes, 
+        la compilan y la presentan en un formato legible.
+        </p>
+
+        <h3> ERP (Sistema de gestión empresarial): </h3>
+        <p>
+         Son el conjunto de políticas, prácticas, procedimientos y procesos utilizados en la elaboración e 
+        implementación de estrategias, su ejecución, y toda la actividad de gestión asociada.
+        </p>
+
+    <h2> Algunos lenguajes de marcado son: </h2>
+
+        <h3> HTML: </h3>
+        <p>
+        Es un lenguaje de marcado que se utiliza para el desarrollo de páginas de Internet. Se trata de la 
+        siglas que corresponden a HyperText Markup Language, es decir, Lenguaje de Marcas de Hipertexto.
+        </p>
+    
+        <h3> XML: </h3>
+        <p>
+            El Extensible Markup Language (XML) o Lenguaje Extensible de Etiquetado es definido como un 
+            lenguaje marcado para documentos que contienen información estructurada, que posee contenido 
+            (como palabras o imágenes) y alguna indicación del papel que desempeña.
+        </p>
+
+        <h3> XHTML: </h3>
+        <p>
+            XHTML(eXtensible HyperText Markup Language) es, básicamente, HTML expresado como XML válido.
+        </p>
+
+
+</body>
